@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+Target 'Flash Chat iOS13' in project 'Flash Chat iOS13' (no dependencies)
+Target 'Flash Chat iOS13' in project 'Flash Chat iOS13' (no dependencies)

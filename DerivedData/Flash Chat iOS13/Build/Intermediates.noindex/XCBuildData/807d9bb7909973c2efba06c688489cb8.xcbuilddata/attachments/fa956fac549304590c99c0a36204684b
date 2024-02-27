@@ -1,0 +1,78 @@
+{
+  "" : {
+    "diagnostics" : "/Users/vladvorniceanu/Development/Flash-Chat/DerivedData/Flash Chat iOS13/Build/Intermediates.noindex/Flash Chat iOS13.build/Debug-iphoneos/Flash Chat iOS13.build/Objects-normal/arm64/Flash Chat iOS13-master.dia",
+    "emit-module-dependencies" : "/Users/vladvorniceanu/Development/Flash-Chat/DerivedData/Flash Chat iOS13/Build/Intermediates.noindex/Flash Chat iOS13.build/Debug-iphoneos/Flash Chat iOS13.build/Objects-normal/arm64/Flash Chat iOS13-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/vladvorniceanu/Development/Flash-Chat/DerivedData/Flash Chat iOS13/Build/Intermediates.noindex/Flash Chat iOS13.build/Debug-iphoneos/Flash Chat iOS13.build/Objects-normal/arm64/Flash Chat iOS13-master-emit-module.dia",
+    "swift-dependencies" : "/Users/vladvorniceanu/Development/Flash-Chat/DerivedData/Flash Chat iOS13/Build/Intermediates.noindex/Flash Chat iOS13.build/Debug-iphoneos/Flash Chat iOS13.build/Objects-normal/arm64/Flash Chat iOS13-master.swiftdeps"
+  },
+  "/Users/vladvorniceanu/Development/Flash-Chat/DerivedData/Flash Chat iOS13/Build/Intermediates.noindex/Flash Chat iOS13.build/Debug-iphoneos/Flash Chat iOS13.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/vladvorniceanu/Development/Flash-Chat/DerivedData/Flash Chat iOS13/Build/Intermediates.noindex/Flash Chat iOS13.build/Debug-iphoneos/Flash Chat iOS13.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/vladvorniceanu/Development/Flash-Chat/DerivedData/Flash Chat iOS13/Build/Intermediates.noindex/Flash Chat iOS13.build/Debug-iphoneos/Flash Chat iOS13.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/vladvorniceanu/Development/Flash-Chat/DerivedData/Flash Chat iOS13/Build/Intermediates.noindex/Flash Chat iOS13.build/Debug-iphoneos/Flash Chat iOS13.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Flash Chat iOS13.build/Debug-iphoneos/Flash Chat iOS13.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/vladvorniceanu/Development/Flash-Chat/DerivedData/Flash Chat iOS13/Build/Intermediates.noindex/Flash Chat iOS13.build/Debug-iphoneos/Flash Chat iOS13.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/vladvorniceanu/Development/Flash-Chat/DerivedData/Flash Chat iOS13/Build/Intermediates.noindex/Flash Chat iOS13.build/Debug-iphoneos/Flash Chat iOS13.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/vladvorniceanu/Development/Flash-Chat/DerivedData/Flash Chat iOS13/Build/Intermediates.noindex/Flash Chat iOS13.build/Debug-iphoneos/Flash Chat iOS13.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/vladvorniceanu/Development/Flash-Chat/DerivedData/Flash Chat iOS13/Build/Intermediates.noindex/Flash Chat iOS13.build/Debug-iphoneos/Flash Chat iOS13.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/vladvorniceanu/Development/Flash-Chat/Flash Chat iOS13/AppDelegate.swift" : {
+    "const-values" : "/Users/vladvorniceanu/Development/Flash-Chat/DerivedData/Flash Chat iOS13/Build/Intermediates.noindex/Flash Chat iOS13.build/Debug-iphoneos/Flash Chat iOS13.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/vladvorniceanu/Development/Flash-Chat/DerivedData/Flash Chat iOS13/Build/Intermediates.noindex/Flash Chat iOS13.build/Debug-iphoneos/Flash Chat iOS13.build/Objects-normal/arm64/AppDelegate.d",
+    "diagnostics" : "/Users/vladvorniceanu/Development/Flash-Chat/DerivedData/Flash Chat iOS13/Build/Intermediates.noindex/Flash Chat iOS13.build/Debug-iphoneos/Flash Chat iOS13.build/Objects-normal/arm64/AppDelegate.dia",
+    "index-unit-output-path" : "/Flash Chat iOS13.build/Debug-iphoneos/Flash Chat iOS13.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/vladvorniceanu/Development/Flash-Chat/DerivedData/Flash Chat iOS13/Build/Intermediates.noindex/Flash Chat iOS13.build/Debug-iphoneos/Flash Chat iOS13.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/vladvorniceanu/Development/Flash-Chat/DerivedData/Flash Chat iOS13/Build/Intermediates.noindex/Flash Chat iOS13.build/Debug-iphoneos/Flash Chat iOS13.build/Objects-normal/arm64/AppDelegate.o",
+    "swift-dependencies" : "/Users/vladvorniceanu/Development/Flash-Chat/DerivedData/Flash Chat iOS13/Build/Intermediates.noindex/Flash Chat iOS13.build/Debug-iphoneos/Flash Chat iOS13.build/Objects-normal/arm64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/vladvorniceanu/Development/Flash-Chat/DerivedData/Flash Chat iOS13/Build/Intermediates.noindex/Flash Chat iOS13.build/Debug-iphoneos/Flash Chat iOS13.build/Objects-normal/arm64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/vladvorniceanu/Development/Flash-Chat/Flash Chat iOS13/Controllers/ChatViewController.swift" : {
+    "const-values" : "/Users/vladvorniceanu/Development/Flash-Chat/DerivedData/Flash Chat iOS13/Build/Intermediates.noindex/Flash Chat iOS13.build/Debug-iphoneos/Flash Chat iOS13.build/Objects-normal/arm64/ChatViewController.swiftconstvalues",
+    "dependencies" : "/Users/vladvorniceanu/Development/Flash-Chat/DerivedData/Flash Chat iOS13/Build/Intermediates.noindex/Flash Chat iOS13.build/Debug-iphoneos/Flash Chat iOS13.build/Objects-normal/arm64/ChatViewController.d",
+    "diagnostics" : "/Users/vladvorniceanu/Development/Flash-Chat/DerivedData/Flash Chat iOS13/Build/Intermediates.noindex/Flash Chat iOS13.build/Debug-iphoneos/Flash Chat iOS13.build/Objects-normal/arm64/ChatViewController.dia",
+    "index-unit-output-path" : "/Flash Chat iOS13.build/Debug-iphoneos/Flash Chat iOS13.build/Objects-normal/arm64/ChatViewController.o",
+    "llvm-bc" : "/Users/vladvorniceanu/Development/Flash-Chat/DerivedData/Flash Chat iOS13/Build/Intermediates.noindex/Flash Chat iOS13.build/Debug-iphoneos/Flash Chat iOS13.build/Objects-normal/arm64/ChatViewController.bc",
+    "object" : "/Users/vladvorniceanu/Development/Flash-Chat/DerivedData/Flash Chat iOS13/Build/Intermediates.noindex/Flash Chat iOS13.build/Debug-iphoneos/Flash Chat iOS13.build/Objects-normal/arm64/ChatViewController.o",
+    "swift-dependencies" : "/Users/vladvorniceanu/Development/Flash-Chat/DerivedData/Flash Chat iOS13/Build/Intermediates.noindex/Flash Chat iOS13.build/Debug-iphoneos/Flash Chat iOS13.build/Objects-normal/arm64/ChatViewController.swiftdeps",
+    "swiftmodule" : "/Users/vladvorniceanu/Development/Flash-Chat/DerivedData/Flash Chat iOS13/Build/Intermediates.noindex/Flash Chat iOS13.build/Debug-iphoneos/Flash Chat iOS13.build/Objects-normal/arm64/ChatViewController~partial.swiftmodule"
+  },
+  "/Users/vladvorniceanu/Development/Flash-Chat/Flash Chat iOS13/Controllers/LoginViewController.swift" : {
+    "const-values" : "/Users/vladvorniceanu/Development/Flash-Chat/DerivedData/Flash Chat iOS13/Build/Intermediates.noindex/Flash Chat iOS13.build/Debug-iphoneos/Flash Chat iOS13.build/Objects-normal/arm64/LoginViewController.swiftconstvalues",
+    "dependencies" : "/Users/vladvorniceanu/Development/Flash-Chat/DerivedData/Flash Chat iOS13/Build/Intermediates.noindex/Flash Chat iOS13.build/Debug-iphoneos/Flash Chat iOS13.build/Objects-normal/arm64/LoginViewController.d",
+    "diagnostics" : "/Users/vladvorniceanu/Development/Flash-Chat/DerivedData/Flash Chat iOS13/Build/Intermediates.noindex/Flash Chat iOS13.build/Debug-iphoneos/Flash Chat iOS13.build/Objects-normal/arm64/LoginViewController.dia",
+    "index-unit-output-path" : "/Flash Chat iOS13.build/Debug-iphoneos/Flash Chat iOS13.build/Objects-normal/arm64/LoginViewController.o",
+    "llvm-bc" : "/Users/vladvorniceanu/Development/Flash-Chat/DerivedData/Flash Chat iOS13/Build/Intermediates.noindex/Flash Chat iOS13.build/Debug-iphoneos/Flash Chat iOS13.build/Objects-normal/arm64/LoginViewController.bc",
+    "object" : "/Users/vladvorniceanu/Development/Flash-Chat/DerivedData/Flash Chat iOS13/Build/Intermediates.noindex/Flash Chat iOS13.build/Debug-iphoneos/Flash Chat iOS13.build/Objects-normal/arm64/LoginViewController.o",
+    "swift-dependencies" : "/Users/vladvorniceanu/Development/Flash-Chat/DerivedData/Flash Chat iOS13/Build/Intermediates.noindex/Flash Chat iOS13.build/Debug-iphoneos/Flash Chat iOS13.build/Objects-normal/arm64/LoginViewController.swiftdeps",
+    "swiftmodule" : "/Users/vladvorniceanu/Development/Flash-Chat/DerivedData/Flash Chat iOS13/Build/Intermediates.noindex/Flash Chat iOS13.build/Debug-iphoneos/Flash Chat iOS13.build/Objects-normal/arm64/LoginViewController~partial.swiftmodule"
+  },
+  "/Users/vladvorniceanu/Development/Flash-Chat/Flash Chat iOS13/Controllers/RegisterViewController.swift" : {
+    "const-values" : "/Users/vladvorniceanu/Development/Flash-Chat/DerivedData/Flash Chat iOS13/Build/Intermediates.noindex/Flash Chat iOS13.build/Debug-iphoneos/Flash Chat iOS13.build/Objects-normal/arm64/RegisterViewController.swiftconstvalues",
+    "dependencies" : "/Users/vladvorniceanu/Development/Flash-Chat/DerivedData/Flash Chat iOS13/Build/Intermediates.noindex/Flash Chat iOS13.build/Debug-iphoneos/Flash Chat iOS13.build/Objects-normal/arm64/RegisterViewController.d",
+    "diagnostics" : "/Users/vladvorniceanu/Development/Flash-Chat/DerivedData/Flash Chat iOS13/Build/Intermediates.noindex/Flash Chat iOS13.build/Debug-iphoneos/Flash Chat iOS13.build/Objects-normal/arm64/RegisterViewController.dia",
+    "index-unit-output-path" : "/Flash Chat iOS13.build/Debug-iphoneos/Flash Chat iOS13.build/Objects-normal/arm64/RegisterViewController.o",
+    "llvm-bc" : "/Users/vladvorniceanu/Development/Flash-Chat/DerivedData/Flash Chat iOS13/Build/Intermediates.noindex/Flash Chat iOS13.build/Debug-iphoneos/Flash Chat iOS13.build/Objects-normal/arm64/RegisterViewController.bc",
+    "object" : "/Users/vladvorniceanu/Development/Flash-Chat/DerivedData/Flash Chat iOS13/Build/Intermediates.noindex/Flash Chat iOS13.build/Debug-iphoneos/Flash Chat iOS13.build/Objects-normal/arm64/RegisterViewController.o",
+    "swift-dependencies" : "/Users/vladvorniceanu/Development/Flash-Chat/DerivedData/Flash Chat iOS13/Build/Intermediates.noindex/Flash Chat iOS13.build/Debug-iphoneos/Flash Chat iOS13.build/Objects-normal/arm64/RegisterViewController.swiftdeps",
+    "swiftmodule" : "/Users/vladvorniceanu/Development/Flash-Chat/DerivedData/Flash Chat iOS13/Build/Intermediates.noindex/Flash Chat iOS13.build/Debug-iphoneos/Flash Chat iOS13.build/Objects-normal/arm64/RegisterViewController~partial.swiftmodule"
+  },
+  "/Users/vladvorniceanu/Development/Flash-Chat/Flash Chat iOS13/Controllers/WelcomeViewController.swift" : {
+    "const-values" : "/Users/vladvorniceanu/Development/Flash-Chat/DerivedData/Flash Chat iOS13/Build/Intermediates.noindex/Flash Chat iOS13.build/Debug-iphoneos/Flash Chat iOS13.build/Objects-normal/arm64/WelcomeViewController.swiftconstvalues",
+    "dependencies" : "/Users/vladvorniceanu/Development/Flash-Chat/DerivedData/Flash Chat iOS13/Build/Intermediates.noindex/Flash Chat iOS13.build/Debug-iphoneos/Flash Chat iOS13.build/Objects-normal/arm64/WelcomeViewController.d",
+    "diagnostics" : "/Users/vladvorniceanu/Development/Flash-Chat/DerivedData/Flash Chat iOS13/Build/Intermediates.noindex/Flash Chat iOS13.build/Debug-iphoneos/Flash Chat iOS13.build/Objects-normal/arm64/WelcomeViewController.dia",
+    "index-unit-output-path" : "/Flash Chat iOS13.build/Debug-iphoneos/Flash Chat iOS13.build/Objects-normal/arm64/WelcomeViewController.o",
+    "llvm-bc" : "/Users/vladvorniceanu/Development/Flash-Chat/DerivedData/Flash Chat iOS13/Build/Intermediates.noindex/Flash Chat iOS13.build/Debug-iphoneos/Flash Chat iOS13.build/Objects-normal/arm64/WelcomeViewController.bc",
+    "object" : "/Users/vladvorniceanu/Development/Flash-Chat/DerivedData/Flash Chat iOS13/Build/Intermediates.noindex/Flash Chat iOS13.build/Debug-iphoneos/Flash Chat iOS13.build/Objects-normal/arm64/WelcomeViewController.o",
+    "swift-dependencies" : "/Users/vladvorniceanu/Development/Flash-Chat/DerivedData/Flash Chat iOS13/Build/Intermediates.noindex/Flash Chat iOS13.build/Debug-iphoneos/Flash Chat iOS13.build/Objects-normal/arm64/WelcomeViewController.swiftdeps",
+    "swiftmodule" : "/Users/vladvorniceanu/Development/Flash-Chat/DerivedData/Flash Chat iOS13/Build/Intermediates.noindex/Flash Chat iOS13.build/Debug-iphoneos/Flash Chat iOS13.build/Objects-normal/arm64/WelcomeViewController~partial.swiftmodule"
+  },
+  "/Users/vladvorniceanu/Development/Flash-Chat/Flash Chat iOS13/SceneDelegate.swift" : {
+    "const-values" : "/Users/vladvorniceanu/Development/Flash-Chat/DerivedData/Flash Chat iOS13/Build/Intermediates.noindex/Flash Chat iOS13.build/Debug-iphoneos/Flash Chat iOS13.build/Objects-normal/arm64/SceneDelegate.swiftconstvalues",
+    "dependencies" : "/Users/vladvorniceanu/Development/Flash-Chat/DerivedData/Flash Chat iOS13/Build/Intermediates.noindex/Flash Chat iOS13.build/Debug-iphoneos/Flash Chat iOS13.build/Objects-normal/arm64/SceneDelegate.d",
+    "diagnostics" : "/Users/vladvorniceanu/Development/Flash-Chat/DerivedData/Flash Chat iOS13/Build/Intermediates.noindex/Flash Chat iOS13.build/Debug-iphoneos/Flash Chat iOS13.build/Objects-normal/arm64/SceneDelegate.dia",
+    "index-unit-output-path" : "/Flash Chat iOS13.build/Debug-iphoneos/Flash Chat iOS13.build/Objects-normal/arm64/SceneDelegate.o",
+    "llvm-bc" : "/Users/vladvorniceanu/Development/Flash-Chat/DerivedData/Flash Chat iOS13/Build/Intermediates.noindex/Flash Chat iOS13.build/Debug-iphoneos/Flash Chat iOS13.build/Objects-normal/arm64/SceneDelegate.bc",
+    "object" : "/Users/vladvorniceanu/Development/Flash-Chat/DerivedData/Flash Chat iOS13/Build/Intermediates.noindex/Flash Chat iOS13.build/Debug-iphoneos/Flash Chat iOS13.build/Objects-normal/arm64/SceneDelegate.o",
+    "swift-dependencies" : "/Users/vladvorniceanu/Development/Flash-Chat/DerivedData/Flash Chat iOS13/Build/Intermediates.noindex/Flash Chat iOS13.build/Debug-iphoneos/Flash Chat iOS13.build/Objects-normal/arm64/SceneDelegate.swiftdeps",
+    "swiftmodule" : "/Users/vladvorniceanu/Development/Flash-Chat/DerivedData/Flash Chat iOS13/Build/Intermediates.noindex/Flash Chat iOS13.build/Debug-iphoneos/Flash Chat iOS13.build/Objects-normal/arm64/SceneDelegate~partial.swiftmodule"
+  }
+}
